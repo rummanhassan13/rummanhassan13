@@ -18,9 +18,6 @@
   <strong>Build the brand. Engineer the experience. Automate the operation.</strong>
 </p>
 ---
-<p align="center">
-  <img src="./Assets/proof.png" width="100%" alt="5+ years, 25+ ecommerce projects, $10M+ combined ecommerce revenue supported and global client delivery">
-</p>
 What I Build
 <p align="center">
   <img src="./Assets/capabilities.png" width="100%" alt="Four connected capabilities: ecommerce development, digital branding, web and SaaS products, and AI automation">
