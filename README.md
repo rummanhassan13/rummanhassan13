@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Rumman Hassan — Ecommerce, Digital Branding, SaaS Products and AI Systems">
+  <img src="./Assets/hero.png" width="100%" alt="Rumman Hassan — Ecommerce, Digital Branding, SaaS Products and AI Systems">
 </p>
 <p align="center">
   <a href="https://linkedin.com/in/rummanhassan13">
@@ -19,11 +19,11 @@
 </p>
 ---
 <p align="center">
-  <img src="./assets/proof.svg" width="100%" alt="5+ years, 25+ ecommerce projects, $10M+ combined ecommerce revenue supported and global client delivery">
+  <img src="./Assets/proof.png" width="100%" alt="5+ years, 25+ ecommerce projects, $10M+ combined ecommerce revenue supported and global client delivery">
 </p>
 What I Build
 <p align="center">
-  <img src="./assets/capabilities.svg" width="100%" alt="Four connected capabilities: ecommerce development, digital branding, web and SaaS products, and AI automation">
+  <img src="./Assets/capabilities.png" width="100%" alt="Four connected capabilities: ecommerce development, digital branding, web and SaaS products, and AI automation">
 </p>
 My work connects four disciplines that are often treated separately: brand, commerce, product and automation. The goal is not to ship isolated assets. It is to build a coherent digital system in which positioning, customer experience, technology, marketing and operations reinforce one another.
 <table>
@@ -108,7 +108,7 @@ Conversational AI: WhatsApp Business API · Telegram Bot API · VAPI · ElevenLa
 Marketing & Operations: Meta Ads · Google Ads · TikTok Ads · HubSpot · Airtable · Notion · Google Workspace
 ---
 <p align="center">
-  <img src="./assets/workflow.svg" width="100%" alt="Working process: understand, design, build and measure">
+  <img src="./Assets/workflow.png" width="100%" alt="Working process: understand, design, build and measure">
 </p>
 I start with the business and customer problem, build the smallest useful version, document the system, and improve it using real usage data. I use automation before unnecessary AI and add intelligence only where context, judgment or flexible decision-making creates measurable value.
 ---
