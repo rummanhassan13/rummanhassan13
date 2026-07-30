@@ -1,202 +1,136 @@
-# Rumman Hassan
-
-### Ecommerce Developer · Web & SaaS Builder · Digital Brand Strategist · AI Automation & Agents
-
-I build **digital brands, ecommerce experiences, SaaS products, and intelligent business systems** designed to help companies launch, grow, and operate more effectively.
-
-My work covers the complete digital journey—from **brand positioning, web design, and ecommerce development** to conversion optimization, workflow automation, AI agents, and connected operational systems.
-
-Over the past five years, I have worked across ecommerce, development, design, marketing, and automation. This gives me a broader perspective than simply building websites or isolated AI demos: I understand how the brand, customer experience, technology, marketing, and backend operations need to work together.
-
-> **Build the brand. Engineer the experience. Automate the operation.**
-
+<p align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Rumman Hassan — Ecommerce, Digital Branding, SaaS Products and AI Systems">
+</p>
+<p align="center">
+  <a href="https://linkedin.com/in/rummanhassan13">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0E0F12?style=flat-square&logo=linkedin&logoColor=10B981" alt="Connect with Rumman Hassan on LinkedIn">
+  </a>
+  <a href="mailto:query@rummanhassan.cv">
+    <img src="https://img.shields.io/badge/Email-Contact-0E0F12?style=flat-square&logo=gmail&logoColor=10B981" alt="Email Rumman Hassan">
+  </a>
+  <img src="https://img.shields.io/badge/Lahore-Pakistan-0E0F12?style=flat-square&logo=googlemaps&logoColor=10B981" alt="Based in Lahore, Pakistan">
+</p>
+<p align="center">
+  I build <strong>digital brands, ecommerce experiences, SaaS products and intelligent business systems</strong><br>
+  that help companies launch, grow and operate more effectively.
+</p>
+<p align="center">
+  <strong>Build the brand. Engineer the experience. Automate the operation.</strong>
+</p>
 ---
-
-## What I Build
-
-### Ecommerce Development & Conversion
-
-I design and develop ecommerce stores that combine strong branding, clean user experiences, reliable technology, and conversion-focused structure.
-
-* Shopify and Shopify Plus development
-* WooCommerce and WordPress ecommerce development
-* Custom Shopify theme development with Liquid
-* Ecommerce website redesign and optimization
-* Product page and landing page development
-* Conversion rate optimization
-* Mobile-first shopping experiences
-* Klaviyo, CRM, payment, inventory, and order integrations
-* Ecommerce maintenance and technical support
-
+<p align="center">
+  <img src="./assets/proof.svg" width="100%" alt="5+ years, 25+ ecommerce projects, $10M+ combined ecommerce revenue supported and global client delivery">
+</p>
+What I Build
+<p align="center">
+  <img src="./assets/capabilities.svg" width="100%" alt="Four connected capabilities: ecommerce development, digital branding, web and SaaS products, and AI automation">
+</p>
+My work connects four disciplines that are often treated separately: brand, commerce, product and automation. The goal is not to ship isolated assets. It is to build a coherent digital system in which positioning, customer experience, technology, marketing and operations reinforce one another.
+<table>
+<tr>
+<td width="50%" valign="top">
+Ecommerce Development & Conversion
+Conversion-focused ecommerce stores and customer experiences built for product businesses.
+Shopify and Shopify Plus development
+WooCommerce and WordPress ecommerce
+Custom Shopify themes with Liquid
+Product pages, landing pages and CRO
+Klaviyo, CRM, payment, inventory and order integrations
+</td>
+<td width="50%" valign="top">
+Digital Branding & Growth
+Clear, memorable and commercially effective digital brand experiences.
+Digital positioning and brand direction
+Website and ecommerce experience design
+Customer journey and campaign planning
+Social creative and promotional systems
+Digital growth strategy for product brands
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+Web Applications & SaaS
+Useful digital products that solve operational and customer problems.
+SaaS products and MVP development
+Dashboards, admin portals and internal tools
+Customer portals and self-service systems
+Responsive frontend development
+API integrations and connected platforms
+</td>
+<td width="50%" valign="top">
+AI Agents & Automation
+Reliable systems that connect tools, data, workflows and human decisions.
+AI agents and agentic workflows
+Business process automation
+LLM applications, RAG and knowledge assistants
+n8n, Make and Zapier orchestration
+Ecommerce, CRM, reporting and support automation
+</td>
+</tr>
+</table>
+<details>
+<summary><strong>View the complete capability list</strong></summary>
+<br>
+Ecommerce: Shopify, Shopify Plus, WooCommerce, WordPress, custom Liquid development, ecommerce redesign, conversion optimization, mobile-first shopping experiences, Klaviyo and operational integrations.
+Brand & Growth: brand positioning, digital identity direction, web experience design, customer journey planning, landing pages, campaign experiences, social creative direction, content assets and ecommerce growth systems.
+Web & SaaS: SaaS product development, business dashboards, internal tools, AI-powered applications, customer portals, product prototyping, MVPs, frontend development and API-based platforms.
+AI & Automation: AI agents, workflow orchestration, OpenAI and Claude integrations, human-in-the-loop approvals, CRM automation, reporting, data synchronization, support assistants, research workflows, chatbots and voice agents.
+</details>
 ---
-
-### Digital Branding & Online Growth
-
-I help businesses build a stronger and more consistent digital presence across their websites, ecommerce stores, content, and customer touchpoints.
-
-* Digital brand strategy and positioning
-* Visual direction and online brand identity
-* Website and ecommerce experience design
-* Customer journey and conversion planning
-* Landing pages and campaign experiences
-* Social media creative direction
-* Ecommerce marketing systems
-* Content and promotional asset development
-* Digital growth strategy for product-based businesses
-
-The objective is not simply to make a business look better. It is to create a brand experience that is clear, memorable, trustworthy, and commercially effective.
-
+Current Focus
+Building conversion-focused Shopify and ecommerce experiences
+Designing digital brand systems for modern product businesses
+Developing SaaS products, dashboards and operational tools
+Connecting ecommerce operations with AI agents and workflow automation
+Exploring Codex-assisted software development and local computer automation
+Creating reusable n8n and API-based business systems
 ---
-
-### Web Applications & SaaS Products
-
-I build practical web platforms, dashboards, internal tools, and SaaS products that solve real operational and customer problems.
-
-* SaaS product development
-* Business dashboards and admin portals
-* Internal tools and workflow applications
-* AI-powered web applications
-* Customer portals and self-service systems
-* API integrations and connected platforms
-* Product prototyping and MVP development
-* Responsive frontend development
-* Automation-enabled business applications
-
-I focus on useful, scalable products rather than unnecessary complexity.
-
+Experience
+I have spent more than five years working across ecommerce development, web design, digital branding, marketing, product development and automation. That multidisciplinary background helps me see the full system—not only the website, campaign or AI workflow in isolation.
+My commercial ecommerce work and emerging AI initiatives are developed through dedicated ventures, while my personal work remains focused on connecting brand, commerce, technology, customer experience and intelligent operations.
 ---
-
-### AI Agents & Business Automation
-
-I design AI and automation systems that connect business tools, data, workflows, and human decision-making.
-
-* AI agents and agentic workflows
-* Business process automation
-* Workflow orchestration
-* OpenAI and Claude API integrations
-* n8n, Make, and Zapier automation
-* Human-in-the-loop approvals
-* CRM and lead-management automation
-* Reporting and data synchronization
-* Ecommerce operations automation
-* Customer support and knowledge assistants
-* AI-powered research and content workflows
-
-My approach is simple:
-
-**Use automation when the process is predictable. Add AI when intelligence, context, or decision-making is genuinely required.**
-
+Technology
+<p>
+  <img src="https://img.shields.io/badge/Shopify-0E0F12?style=flat-square&logo=shopify&logoColor=10B981" alt="Shopify">
+  <img src="https://img.shields.io/badge/WooCommerce-0E0F12?style=flat-square&logo=woocommerce&logoColor=10B981" alt="WooCommerce">
+  <img src="https://img.shields.io/badge/WordPress-0E0F12?style=flat-square&logo=wordpress&logoColor=10B981" alt="WordPress">
+  <img src="https://img.shields.io/badge/JavaScript-0E0F12?style=flat-square&logo=javascript&logoColor=10B981" alt="JavaScript">
+  <img src="https://img.shields.io/badge/OpenAI-0E0F12?style=flat-square&logo=openai&logoColor=10B981" alt="OpenAI">
+  <img src="https://img.shields.io/badge/n8n-0E0F12?style=flat-square&logo=n8n&logoColor=10B981" alt="n8n">
+  <img src="https://img.shields.io/badge/Make-0E0F12?style=flat-square&logo=make&logoColor=10B981" alt="Make">
+  <img src="https://img.shields.io/badge/Figma-0E0F12?style=flat-square&logo=figma&logoColor=10B981" alt="Figma">
+</p>
+Ecommerce: Shopify · Shopify Plus · WooCommerce · WordPress · Liquid · Klaviyo  
+Web & SaaS: HTML · CSS · JavaScript · APIs · Dashboards · Internal Tools  
+Design & Branding: Figma · Elementor · Ecommerce UX · Conversion Design  
+AI & Automation: OpenAI API · Claude API · AI Agents · RAG · Function Calling · n8n · Make · Zapier  
+Conversational AI: WhatsApp Business API · Telegram Bot API · VAPI · ElevenLabs  
+Marketing & Operations: Meta Ads · Google Ads · TikTok Ads · HubSpot · Airtable · Notion · Google Workspace
 ---
-
-### Conversational & Voice AI
-
-I also build conversational systems that help businesses communicate, qualify leads, support customers, and automate repetitive interactions.
-
-* Website chatbots
-* Ecommerce support assistants
-* WhatsApp Business automation
-* Telegram bots
-* AI voice agents
-* Lead qualification workflows
-* Appointment and follow-up automation
-* Internal knowledge assistants
-* Customer service routing systems
-
+<p align="center">
+  <img src="./assets/workflow.svg" width="100%" alt="Working process: understand, design, build and measure">
+</p>
+I start with the business and customer problem, build the smallest useful version, document the system, and improve it using real usage data. I use automation before unnecessary AI and add intelligence only where context, judgment or flexible decision-making creates measurable value.
 ---
-
-## Current Focus
-
-I am currently building and exploring:
-
-* Conversion-focused Shopify and ecommerce experiences
-* Digital brand systems for modern product businesses
-* AI-powered SaaS products and operational dashboards
-* Ecommerce automation for support, reporting, marketing, and operations
-* AI agents that work with real tools, data, and approval systems
-* Codex-assisted development and software automation
-* Internal AI assistants for knowledge, research, and customer support
-* Reusable n8n workflows and API-based business systems
-* Practical ways to combine design, development, branding, and AI
-
+What I Share
+I document practical lessons and build notes about:
+Shopify development, ecommerce UX and conversion
+Digital branding and online business growth
+Web applications, SaaS products and internal tools
+AI automation, agentic workflows and LLM applications
+Codex and AI-assisted software development
+Building digital businesses as a self-taught, introverted builder
 ---
-
-## Experience
-
-* **5+ years** across ecommerce, web development, digital branding, design, marketing, and automation
-* **25+ ecommerce stores and brand projects** built or scaled
-* Experience supporting brands representing **$10M+ in combined ecommerce revenue**
-* Hands-on involvement across strategy, design, development, marketing, and operations
-* Experience working with product businesses, ecommerce brands, founders, and international clients
-* Self-taught builder focused on continuous learning and practical implementation
-* Based in **Lahore, Pakistan**, working with businesses globally
-
-My commercial ecommerce work and emerging AI initiatives operate through dedicated brands, but my personal focus remains broader: building complete digital systems that connect **brand, commerce, technology, customer experience, and automation**.
-
----
-
-## Tech Stack
-
-**Ecommerce**
-Shopify · Shopify Plus · WooCommerce · WordPress · Liquid · Klaviyo
-
-**Web & SaaS**
-HTML · CSS · JavaScript · APIs · SaaS Development · Dashboards · Internal Tools
-
-**Design & Branding**
-Figma · Elementor · Ecommerce UX · Conversion Design · Digital Brand Systems
-
-**AI & Automation**
-OpenAI API · Claude API · AI Agents · RAG · Function Calling · Structured Outputs · n8n · Make · Zapier
-
-**Conversational AI & Voice**
-WhatsApp Business API · Telegram Bot API · VAPI · ElevenLabs
-
-**Marketing & Operations**
-Meta Ads · Google Ads · TikTok Ads · HubSpot · Airtable · Notion · Google Workspace
-
----
-
-## How I Work
-
-* Start by understanding the business, customer, and operational problem
-* Build the smallest useful version before adding complexity
-* Treat branding, design, development, and conversion as connected disciplines
-* Use automation before introducing unnecessary AI
-* Add AI where context, intelligence, or flexible decision-making creates value
-* Build with privacy, safety, and clearly limited permissions
-* Document workflows with SOPs, handover notes, and rollback paths
-* Test, measure, evaluate, and improve using real usage data
-* Prioritize business outcomes over technology trends
-
----
-
-## What I Share
-
-I share practical lessons and build notes about:
-
-* Shopify and ecommerce development
-* Ecommerce conversion and customer experience
-* Digital branding and online business growth
-* Website, SaaS, and product development
-* AI automation and agentic workflows
-* Codex and AI-assisted software development
-* RAG, tool calling, and LLM applications
-* Ecommerce operations automation
-* Building digital businesses as a self-taught, introverted builder
-* Combining creative thinking with reliable technical execution
-
-You can follow my work and writing on [LinkedIn](https://linkedin.com/in/rummanhassan13).
-
----
-
-## Let’s Connect
-
-I am open to relevant collaborations involving:
-
-**Ecommerce Development · Shopify · Digital Branding · Web Development · SaaS Products · AI Automation · AI Agents · LLM Applications · Business Systems**
-
-**[LinkedIn](https://linkedin.com/in/rummanhassan13)**** · ****[Email](mailto:query@rummanhassan.cv)**
-
----
-
-<sub>Building brands, digital experiences, and intelligent systems from Lahore, Pakistan.</sub>
+Let’s Connect
+<p align="center">
+  Open to relevant collaborations involving<br>
+  <strong>Ecommerce · Shopify · Digital Branding · Web & SaaS · AI Automation · Business Systems</strong>
+</p>
+<p align="center">
+  <a href="https://linkedin.com/in/rummanhassan13"><strong>LinkedIn</strong></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:query@rummanhassan.cv"><strong>Email</strong></a>
+</p>
+<p align="center">
+  <sub>Building brands, digital experiences and intelligent systems from Lahore, Pakistan.</sub>
+</p>
