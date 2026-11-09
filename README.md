@@ -10,8 +10,8 @@ I build full-stack web apps, ecommerce stores and AI systems. I use React, TypeS
 
 ## Selected work
 
-### Arslan Transport 2.0 &nbsp;·&nbsp; [live](https://arslan-transport-2-0.vercel.app) · [code](https://github.com/rummanhassan13/arslan-transport-2.0)
-A multi-tenant operations platform for a transport company, running as a pilot with real data. It covers shipments, automatic invoicing, driver ledgers, company receivables, expenses and reporting.
+### Arslan Transport &nbsp;·&nbsp; [live](https://arslan-transport-2-0.vercel.app) · private repo
+A multi-tenant operations platform for a transport company, running as a pilot with real data, so the source is private. It covers shipments, automatic invoicing, driver ledgers, company receivables, expenses and reporting.
 - A Postgres function creates each shipment together with its invoice and driver advances in one transaction, so balances and ledgers stay consistent.
 - Data is scoped per organization with Row Level Security. Shipment documents are stored privately in Cloudflare R2 and opened through signed, time-limited links.
 - It has domain unit tests, database tests and Playwright end-to-end smoke tests, plus a demo mode that runs entirely in the browser.
