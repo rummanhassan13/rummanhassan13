@@ -49,6 +49,14 @@ I work across these layers because strong digital businesses need more than a go
 
 ---
 
+## Open Work and Live Builds
+
+* **[AI Systems Lab](https://github.com/users/rummanhassan13/projects/1):** a public research and engineering workspace for small, documented AI systems: RAG, function calling, lightweight agents, evaluation and safety. Early planning stage; the methodology and report template are in [ai-systems-lab](https://github.com/rummanhassan13/ai-systems-lab).
+* **[Blob Gang](https://blobgang.lovable.app):** a multiplayer typing race with jelly-blob characters. Built with Lovable. [Source](https://github.com/rummanhassan13/blobgang)
+* **[Thaal](https://thaal.lovable.app):** QR menus and table ordering for restaurants. Built with Lovable. [Source](https://github.com/rummanhassan13/thaal)
+
+---
+
 ## How I Work
 
 `Understand → Simplify → Design → Build → Measure`
